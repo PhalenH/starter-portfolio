@@ -10,9 +10,9 @@ This portfolio will be based off HTML and CSS files as for right now with the li
 
 Some tools that we've learned recently that will be included in this portfolio include
 
-*CSS variables
-*flexbox
-*media queries
+* CSS variables
+* flexbox
+* media queries
 
 ## Objective
 
