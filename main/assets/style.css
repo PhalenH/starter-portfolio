@@ -1,0 +1,37 @@
+body {
+    background-color: #eae7dc;
+    color: #e85a4f
+}
+
+header,
+footer {
+    background-color: #d8c3a5;
+    font-size: 25px ;
+}
+
+.text-across-top,
+.text-across-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+li {
+    padding: 0px 15px;
+}
+
+a {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+    color: #e85a4f
+}
