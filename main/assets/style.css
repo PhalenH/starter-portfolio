@@ -48,3 +48,30 @@ a:active {
     margin: 10px;
     background-color: #d8c3a5;
 }
+
+p {
+    line-height: 25px;
+}
+
+.section-border-and-style img {
+    max-width: 50%;
+    height: 50%;
+}
+
+.about-me-layout {
+    display: flex;
+    flex: 1 1 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+}
+.about-me-layout, p {
+    max-width: 992px;
+}
+.about-me-layout, img {
+    max-width: 992px;
+    height: auto;
+
+}
