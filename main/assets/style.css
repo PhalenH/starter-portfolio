@@ -45,9 +45,9 @@ a:active {
 }
 
 .section-border-and-style {
+    display: block;
     flex: 1 0 0;
     padding: 10px;
-    text-align: center;
     border-style: solid;
     border-width: 1px;
     margin: 10px;
