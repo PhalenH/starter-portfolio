@@ -79,3 +79,7 @@ p {
 .center-portfolio {
     text-align: center;
 }
+
+#contact {
+    justify-content: center;
+}
