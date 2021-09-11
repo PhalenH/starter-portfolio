@@ -19,3 +19,8 @@ Some tools that we've learned recently that will be included in this portfolio i
 The objective is to create a responsive portfolio page that highlights my best work as a developer and provides insight to potential employers of the projects that I've worked on in the past and what I'm capable of as a web developer. Cheers!
 
 <!-- TODO: add a screenshot of the portfolio and a link to the deployed portfolio -->
+## Submission
+
+Check out my portfolio here: [Link to webpage](#)
+
+![Screenshot of portfolio.](./main/assets/images/#)
