@@ -12,7 +12,6 @@ footer {
 ul {
     list-style-type: none;
     display: flex;
-    flex-flow: row;
     justify-content: center;
 }
 
@@ -60,12 +59,12 @@ a:active {
 
 .about-me-layout {
     display: flex;
-    flex: 1 1 0;
     flex-wrap: wrap;
     justify-content: center;
     margin: auto;
     border-top: 5px solid;
     border-bottom: 5px solid;
+    background-color: aqua;
 }
 .about-me-layout, p {
     max-width: 992px;
