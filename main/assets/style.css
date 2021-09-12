@@ -59,18 +59,16 @@ a:active {
 
 .about-me-layout {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: auto;
+    flex-flow: column wrap;
     border-top: 5px solid;
     border-bottom: 5px solid;
     background-color: aqua;
 }
 .about-me-layout, p {
-    max-width: 992px;
+    max-width: 50%;
 }
 .about-me-layout, img {
-    max-width: 992px;
+    max-width: 100%;
     height: auto;
 
 }
