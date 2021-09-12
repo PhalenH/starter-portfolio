@@ -59,13 +59,17 @@ a:active {
 
 .about-me-layout {
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: wrap;
+    justify-content: center;
     border-top: 5px solid;
     border-bottom: 5px solid;
     background-color: aqua;
 }
 .about-me-layout, p {
     max-width: 50%;
+    margin: auto;
+    text-align: center;
+    /* Why doens't justify-content work for this instead of margin auto? */
 }
 .about-me-layout, img {
     max-width: 100%;
