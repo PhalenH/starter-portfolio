@@ -55,12 +55,10 @@ a:active {
     border-bottom: 5px solid;
 }
 
-.about-me-layout, p {
-    max-width: 50%;
-}
-.about-me-layout, img {
+.about-me-layout img {
     max-width: 100%;
     height: auto;
+    border: 3px #8e8d8a solid;
 }
 .paragraph-picture-layout {
     display: flex;
@@ -92,6 +90,7 @@ a:active {
 .section-border-and-style img {
     max-width: 50%;
     height: auto;
+    border: 3px #8e8d8a solid;
 }
 
 /* .section-border-and-style {} */
