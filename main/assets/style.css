@@ -75,7 +75,8 @@ a:active {
     text-align: center;
 }
 .section-border-and-style {
-    display: block;
+    display: flex;
+    align-items: center;
     padding: 10px;
     border-style: solid;
     border-width: 1px;
@@ -85,7 +86,7 @@ a:active {
 
 .section-border-and-style img {
     max-width: 50%;
-    height: 50%;
+    height: auto;
 }
 
 #contact {
