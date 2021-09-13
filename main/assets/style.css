@@ -65,7 +65,6 @@ a:active {
 .paragraph-picture-layout {
     display: flex;
     flex-wrap: nowrap;
-    justify-content: center;
     text-align: center;
     align-items: center;
 }
