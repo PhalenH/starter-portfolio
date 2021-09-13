@@ -24,7 +24,7 @@ a {
 }
 
 p {
-    line-height: 25px;
+    line-height: 40px;
 }
 
 .text-across-top,
@@ -63,18 +63,26 @@ a:active {
     justify-content: center;
     border-top: 5px solid;
     border-bottom: 5px solid;
-    background-color: aqua;
 }
+
 .about-me-layout, p {
     max-width: 50%;
-    margin: auto;
-    text-align: center;
-    /* Why doens't justify-content work for this instead of margin auto? */
 }
 .about-me-layout, img {
     max-width: 100%;
     height: auto;
-
+}
+.paragraph-picture-layout {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.p-style-border {
+    border-bottom: 3px #e85a4f solid;
+    border-top: 3px #e85a4f solid;
+    max-width: 40%;
 }
 
 .center-portfolio {
