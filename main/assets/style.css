@@ -43,20 +43,6 @@ a:active {
     color: #e85a4f
 }
 
-.section-border-and-style {
-    display: block;
-    padding: 10px;
-    border-style: solid;
-    border-width: 1px;
-    margin: 10px;
-    background-color: #d8c3a5;
-}
-
-.section-border-and-style img {
-    max-width: 50%;
-    height: 50%;
-}
-
 .about-me-layout {
     display: flex;
     flex-flow: wrap;
@@ -87,6 +73,19 @@ a:active {
 
 .center-portfolio {
     text-align: center;
+}
+.section-border-and-style {
+    display: block;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    margin: 10px;
+    background-color: #d8c3a5;
+}
+
+.section-border-and-style img {
+    max-width: 50%;
+    height: 50%;
 }
 
 #contact {
