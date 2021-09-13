@@ -92,6 +92,9 @@ a:active {
     height: auto;
     border: 3px #8e8d8a solid;
 }
+.section-border-and-style img:hover {
+    transform: scale(1.05);
+}
 
 #contact {
     justify-content: center;
