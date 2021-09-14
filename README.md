@@ -21,6 +21,6 @@ The objective is to create a responsive portfolio page that highlights my best w
 <!-- TODO: add a screenshot of the portfolio and a link to the deployed portfolio -->
 ## Submission
 
-Check out my portfolio here: [https://phalenh.github.io/starter-portfolio/main/index.html](#)
+Check out my portfolio here: [Click here to view my portfolio!](https://phalenh.github.io/starter-portfolio/main/index.html)
 
 ![Screenshot of portfolio.](./main/assets/images/#)
