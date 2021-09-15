@@ -118,6 +118,7 @@ a:active {
 
 .film {
     width: 100%;
+    max-width: 619px;
     height: auto;
     border: 3px #8e8d8a solid;
 }
@@ -155,4 +156,7 @@ a:active {
         margin: auto;
         margin-bottom: 45px;
     }
+    .film-container {
+        width: 55%;
   }
+}
