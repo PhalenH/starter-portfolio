@@ -1,6 +1,9 @@
+:root {
+    --border-text: #e85a4f;
+}
 body {
     background-color: #eae7dc;
-    color: #e85a4f
+    color: var(--border-text)
 }
 
 header,
@@ -9,17 +12,16 @@ footer {
     font-size: 25px ;
 }
 footer {
-    border-top: 10px solid #e85a4f;
+    border-top: 10px solid var(--border-text);
 }
 header {
-    border-bottom: 10px solid #e85a4f;
+    border-bottom: 10px solid var(--border-text);
 }
 
 h2 {
     font-size: 50px;
 }
 ul {
-    list-style-type: none;
     display: flex;
     justify-content: center;
 }
@@ -52,7 +54,7 @@ a:visited,
 a:hover,
 a:active {
     text-decoration: none;
-    color: #e85a4f
+    color: var(--border-text)
 }
 
 .about-me-layout {
@@ -71,8 +73,8 @@ a:active {
 }
 
 .p-style-border {
-    border-bottom: 3px #e85a4f solid;
-    border-top: 3px #e85a4f solid;
+    border-bottom: 3px var(--border-text) solid;
+    border-top: 3px var(--border-text) solid;
     max-width: 40%;
     line-height: 40px;
 }
