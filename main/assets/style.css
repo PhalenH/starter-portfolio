@@ -135,4 +135,15 @@ a:active {
     .p-style-border {
         max-width: 100%;
     }
+    .anchor-container {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        height: auto;
+    }
+    .khruangbin {
+        width: 60%;
+        margin: auto;
+        margin-bottom: 45px;
+    }
   }
