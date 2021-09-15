@@ -33,6 +33,12 @@ a {
     position: relative;
 }
 
+figcaption {
+    background-color: rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 13px;
+}
+
 .text-across-top,
 .text-across-bottom {
     display: flex;
@@ -55,6 +61,7 @@ a:active {
     flex-wrap: nowrap;
     text-align: center;
     align-items: center;
+    justify-content: center;
 }
 
 .about-me-layout img {
