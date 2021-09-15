@@ -29,7 +29,6 @@ li {
 }
 
 a {
-    /* text-decoration: none; */
     display: flex;
     position: relative;
 }
@@ -85,9 +84,12 @@ a:active {
     background-color: #d8c3a5;
 }
 
+.k-container {
+    max-width: 100%;
+}
 .khruangbin {
-    width: 80%;
-    justify-content: center;
+    width: 50%;
+    margin: auto;
     margin-bottom: 45px;
 }
 .khruangbin:hover {
@@ -101,7 +103,7 @@ a:active {
 
 .film-container {
     width: 40%;
-    margin: 45px 45px
+    margin: 45px 45px;
 }
 
 .film {
