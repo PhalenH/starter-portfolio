@@ -84,8 +84,9 @@ a:active {
     background-color: #d8c3a5;
 }
 
-.k-container {
+.anchor-container {
     max-width: 100%;
+    display: flex;
 }
 .khruangbin {
     width: 50%;
@@ -102,7 +103,7 @@ a:active {
 }
 
 .film-container {
-    width: 40%;
+    width: 50%;
     margin: 45px 45px;
 }
 
