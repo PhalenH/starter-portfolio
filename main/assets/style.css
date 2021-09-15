@@ -90,6 +90,9 @@ a:active {
     justify-content: center;
     margin-bottom: 45px;
 }
+.khruangbin:hover {
+    transform: scale(1.05);
+}
 .khruangbin img {
     width: 100%;
     height: auto;
