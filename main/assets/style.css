@@ -14,6 +14,10 @@ footer {
 header {
     border-bottom: 10px solid #e85a4f;
 }
+
+h2 {
+    font-size: 50px;
+}
 ul {
     list-style-type: none;
     display: flex;
@@ -47,7 +51,7 @@ a:active {
 }
 
 .about-me-layout {
-    border-bottom: 5px solid;
+    border-bottom: 10px solid;
     display: flex;
     flex-wrap: nowrap;
     text-align: center;
