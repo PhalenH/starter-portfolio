@@ -117,3 +117,12 @@ a:active {
 #contact {
     justify-content: center;
 }
+
+@media screen and (max-width: 768px) {
+    .about-me-layout {
+      flex-direction: column;
+    }
+    .p-style-border {
+        max-width: 100%;
+    }
+  }
