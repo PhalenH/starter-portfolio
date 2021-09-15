@@ -101,6 +101,7 @@ a:active {
     width: 50%;
     margin: auto;
     margin-bottom: 45px;
+    display: flex;
 }
 .khruangbin:hover {
     transform: scale(1.05);
@@ -114,6 +115,7 @@ a:active {
 .film-container {
     width: 50%;
     margin: 45px 45px;
+    display: flex;
 }
 
 .film {
@@ -132,6 +134,8 @@ a:active {
   padding-left: 10px;
   padding-right: 10px;
   text-align: right;
+  /* flex: 0 1 160px; */
+  flex-shrink: 2;
 }
 
 #contact {
