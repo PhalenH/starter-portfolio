@@ -107,6 +107,7 @@ a:active {
     margin: auto;
     margin-bottom: 45px;
     display: flex;
+    border: 3px #8e8d8a solid;
 }
 
 .khruangbin:hover {
@@ -116,33 +117,30 @@ a:active {
 .khruangbin img {
     width: 100%;
     height: auto;
-    border: 3px #8e8d8a solid;
 }
 
 .film-container {
     width: 50%;
     margin: 45px 45px;
     display: flex;
+    border: 3px #8e8d8a solid;
 }
 
 .film {
     width: 100%;
     max-width: 619px;
     height: auto;
-    border: 3px #8e8d8a solid;
 }
 
 .text-block {
     position: absolute;
-    top: 3px;
+    top: 0px;
     right: 0px;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     padding-left: 10px;
     padding-right: 10px;
     text-align: right;
-    /* flex: 0 1 160px; */
-    flex-shrink: 2;
 }
 
 #contact {
