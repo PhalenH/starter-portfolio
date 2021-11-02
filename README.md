@@ -2,17 +2,18 @@
 
 ## Description
 
-This will be the first iteration of my professional portfolio in addition to being my week 2 homework assignment for the fall part time full stack coding bootcamp. I have limited experience with coding and I haven't created any projects to place in my portfolio, so it will primarily be filled with placeholder images and names which I plan on later filling in as I create and work on new projects.
+This is the second iteration of my professional portfolio in addition to being my week 9 homework assignment for the fall part time full stack coding bootcamp. I replaced the stock images with no link with deployed pages of assignments and projects I've worked on during the first 8 weeks of the bootcamp.
 
 ## Technology Utilized
 
-This portfolio will be based off HTML and CSS files as for right now with the likelyhood of integrating javascript and other technologies along the way
+This portfolio will be based off HTML and CSS files as well as using bootstrap as a framework.\
 
-Some tools that we've learned recently that will be included in this portfolio include
+Tools included in this portfolio:
 
 * CSS variables
 * flexbox
 * media queries
+* Bootstrap
 
 ## Objective
 
